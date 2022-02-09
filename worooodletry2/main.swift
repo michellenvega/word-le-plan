@@ -36,6 +36,5 @@ while valid != 1{
 }
 
 // if len == 5, guess
-//hehe
-
+//alright lets start 
 

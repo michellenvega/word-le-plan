@@ -36,13 +36,6 @@ while valid != 1{
 }
 
 // if len == 5, guess
-
-
-
-
-
-
-// in app, we can change color, but rn, we will just
-// output the results
+//hehe
 
 
